@@ -1,0 +1,23 @@
+{
+  "name": "poewiki-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "(if exist build rd /s /q build) && tsc && node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "capture-website": "^4.1.0",
+    "glob": "^10.3.10",
+    "yaml": "^2.3.4"
+  }
+}
