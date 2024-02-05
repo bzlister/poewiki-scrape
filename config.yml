@@ -4,7 +4,16 @@ nodes:
   - Claws of the Hawk
   - Claws of the Falcon
   - Life Raker
+  - Wildwood Blessing
+  - Lesson of the Seasons
 items:
   - The Untouched Soul
   - Replica Last Resort
   - Unset Ring
+  - Split Personality:
+      - +40 to Accuracy Rating
+      - +5 to Intelligence
+skills:
+  - Petrified Blood
+  - Lightning Strike
+  - Lightning Strike of Arcing
